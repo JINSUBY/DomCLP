@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# DomCLP
-=======
 # DomCLP: Domain-wise Contrastive Learning with Prototype Mixup for Unsupervised Domain Generalization (AAAI 2025)
 ### Jin-Seop Lee, Noo-ri Kim, and Jee-Hyong Lee
 
