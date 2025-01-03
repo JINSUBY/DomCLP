@@ -70,7 +70,6 @@ CUDA_VISIBLE_DEVICES=3 python knn_evaluate.py --dataset pacs --method domclp --f
 CUDA_VISIBLE_DEVICES=3 python knn_evaluate.py --dataset pacs --method domclp --ft_ratio 10 --train_domain PAC --val_domain S
 ```
 
-
 ## BibTeX
 ```
 @misc{lee2024domclpdomainwisecontrastivelearning,
@@ -82,5 +81,3 @@ CUDA_VISIBLE_DEVICES=3 python knn_evaluate.py --dataset pacs --method domclp --f
       primaryClass={cs.CV},
       url={https://arxiv.org/abs/2412.09074}, 
 }
-```
->>>>>>> 471bf30 (Upload)
