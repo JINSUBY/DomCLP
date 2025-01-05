@@ -1,0 +1,7 @@
+photo/dog/056_0082.jpg 0
+photo/elephant/064_0121.jpg 1
+photo/giraffe/n02439033_11894.jpg 2
+photo/guitar/063_0038.jpg 3
+photo/horse/n02374451_777.jpg 4
+photo/house/pic_242.jpg 5
+photo/person/253_0055.jpg 6

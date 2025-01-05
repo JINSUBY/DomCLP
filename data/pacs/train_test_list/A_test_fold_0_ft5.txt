@@ -1,0 +1,14 @@
+art_painting/dog/pic_316.jpg 0 1
+art_painting/dog/pic_225.jpg 0 1
+art_painting/elephant/pic_171.jpg 1 1
+art_painting/elephant/pic_078.jpg 1 1
+art_painting/giraffe/pic_155.jpg 2 1
+art_painting/giraffe/pic_303.jpg 2 1
+art_painting/guitar/pic_180.jpg 3 1
+art_painting/horse/pic_038.jpg 4 1
+art_painting/horse/pic_034.jpg 4 1
+art_painting/house/pic_167.jpg 5 1
+art_painting/house/pic_001.jpg 5 1
+art_painting/person/pic_134.jpg 6 1
+art_painting/person/pic_284.jpg 6 1
+art_painting/person/pic_133.jpg 6 1

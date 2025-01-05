@@ -1,0 +1,7 @@
+cartoon/dog/pic_233.jpg 0 2
+cartoon/elephant/pic_247.jpg 1 2
+cartoon/giraffe/pic_100.jpg 2 2
+cartoon/guitar/pic_072.jpg 3 2
+cartoon/horse/pic_132.jpg 4 2
+cartoon/house/pic_069.jpg 5 2
+cartoon/person/pic_332.jpg 6 2

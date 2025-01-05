@@ -1,0 +1,15 @@
+cartoon/dog/pic_405.jpg 0 2
+cartoon/dog/pic_254.jpg 0 2
+cartoon/elephant/pic_240.jpg 1 2
+cartoon/elephant/pic_154.jpg 1 2
+cartoon/elephant/pic_157.jpg 1 2
+cartoon/giraffe/pic_091.jpg 2 2
+cartoon/giraffe/pic_104.jpg 2 2
+cartoon/guitar/pic_007.jpg 3 2
+cartoon/horse/pic_151.jpg 4 2
+cartoon/horse/pic_149.jpg 4 2
+cartoon/house/pic_102.jpg 5 2
+cartoon/house/pic_093.jpg 5 2
+cartoon/person/pic_157.jpg 6 2
+cartoon/person/pic_317.jpg 6 2
+cartoon/person/pic_144.jpg 6 2

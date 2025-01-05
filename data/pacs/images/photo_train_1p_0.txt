@@ -1,0 +1,17 @@
+photo/dog/n02103406_1247.jpg 0
+photo/dog/n02109525_3202.jpg 0
+photo/elephant/n02503517_9270.jpg 1
+photo/elephant/064_0121.jpg 1
+photo/giraffe/084_0068.jpg 2
+photo/giraffe/n02439033_13602.jpg 2
+photo/guitar/n03272010_6809.jpg 3
+photo/guitar/063_0009.jpg 3
+photo/horse/n02374451_14119.jpg 4
+photo/horse/n02374451_18570.jpg 4
+photo/house/pic_233.jpg 5
+photo/house/pic_024.jpg 5
+photo/house/pic_288.jpg 5
+photo/person/253_0341.jpg 6
+photo/person/253_0387.jpg 6
+photo/person/253_0095.jpg 6
+photo/person/253_0428.jpg 6
