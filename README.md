@@ -1,7 +1,7 @@
 # DomCLP: Domain-wise Contrastive Learning with Prototype Mixup for Unsupervised Domain Generalization (AAAI 2025)
 ### Jin-Seop Lee, Noo-ri Kim, and Jee-Hyong Lee
 
-### [[Project Page](https://jinsuby.github.io/DomCLP/)] [[Paper(arxiv)](https://arxiv.org/abs/2412.09074)]
+### [[Project Page](https://jinsuby.github.io/domclp/)] [[Paper(arxiv)](https://arxiv.org/abs/2412.09074)]
 This repository is the official implementation of **DomCLP: Domain-wise Contrastive Learning with Prototype Mixup for Unsupervised Domain Generalization**.
 
 
